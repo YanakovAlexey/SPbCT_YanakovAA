@@ -1,0 +1,4 @@
+C:\Users\yanak\source\repos\Practic\Practic\Debug\Practic.SecondForm.resources
+C:\Users\yanak\source\repos\Practic\Practic\Debug\Practic.vcxproj.GenerateResource.cache
+C:\Users\yanak\source\repos\Practic\Practic\Debug\Practic.vcxprojAssemblyReference.cache
+C:\Users\yanak\source\repos\Practic\Practic\Debug\Practic.MyForm.resources
