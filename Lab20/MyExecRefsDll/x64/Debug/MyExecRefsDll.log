@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (MyExecRefsDll.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyExecRefsDll.cpp
+  MyExecRefsDll.vcxproj -> C:\Users\yanak\OneDrive\Рабочий стол\Лаба 20\x64\Debug\ExecRefDll.exe
